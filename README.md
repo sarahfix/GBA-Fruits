@@ -36,7 +36,7 @@ GBA-Fruits is a fast-paced arcade game built for the Game Boy Advance using C an
     - run: make mgba
 
 ## Demo
-![Gameplay Demo](../screenshots/demo.png)
+![Gameplay Demo](screenshots/demo.png)
 
 ## Notes
 - **Development**: Solo project, fully implemented game logic, rendering, and assets.
